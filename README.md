@@ -7,3 +7,4 @@
 * Michael Slavinsky [diverdown311](https://github.com/diverdown311)
 * Arnufalo Hernandez [therealnoof](https://github.com/therealnoof)
 * Matt Burns [mburnsf5](https://github.com/mburnsf5)
+* Stephen Hillier [steveh565](https://github.com/steveh565)
