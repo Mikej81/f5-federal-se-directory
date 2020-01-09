@@ -1,6 +1,6 @@
-# F5 Federal System Enginer Directory
+# F5 Federal Engineering Repo Directory
 
-## This is a director of F5 Federal SE's and thier repositories.
+## This is a director of F5 Federal Engineering repositories.
 
 * Michael Coleman [Mikej81](https://github.com/Mikej81)
 * Bill Church [BillChurch](https://github.com/BillChurch)
