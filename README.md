@@ -11,3 +11,5 @@
 * August Winterstein [AugWin](https://github.com/AugWin)
 * Brad Otlin    [bradotlin](https://github.com/bradotlin)
 * Chris Sheehan [Doctorwooo](https://github.com/Doctorwooo)
+* Paul Deakin [dudesweet](https://github.com/dudesweet)
+* Paul Simmons [F4plusplus](https://github.com/F4plusplus)
