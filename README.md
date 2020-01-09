@@ -9,3 +9,5 @@
 * Matt Burns [mburnsf5](https://github.com/mburnsf5)
 * Stephen Hillier [steveh565](https://github.com/steveh565)
 * August Winterstein [AugWin](https://github.com/AugWin)
+* Brad Otlin    [bradotlin](https://github.com/bradotlin)
+* Chris Sheehan [Doctorwooo](https://github.com/Doctorwooo)
