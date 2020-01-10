@@ -17,6 +17,11 @@
   * [f5-asm-generic](https://github.com/Mikej81/f5-asm-generic) Generic Schema converter for ASM.
   * [WebRDP](https://github.com/Mikej81/WebRDP) HTML5 RDP Client
 * Bill Church [BillChurch](https://github.com/BillChurch)
+  * [webssh2](https://github.com/billchurch/webssh2) This is not the F5 version, but the opensource version. Not meant for BIG-IP use.
+  * Everything I have is now productized... Yay?
+    * webssh2_ilx
+    * Ephemeral Authentication
+    * SSH2 Proxy (not yet, but not public either...)
 * Michael Slavinsky [diverdown311](https://github.com/diverdown311)
 * Arnufalo Hernandez [therealnoof](https://github.com/therealnoof)
 * Matt Burns [mburnsf5](https://github.com/mburnsf5)
