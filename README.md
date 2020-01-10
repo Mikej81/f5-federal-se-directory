@@ -16,6 +16,10 @@
   * [f5-samlreplay](https://github.com/Mikej81/f5-samlreplay) SAML Replay and verification in IrulesLX.
   * [f5-asm-generic](https://github.com/Mikej81/f5-asm-generic) Generic Schema converter for ASM.
 * Bill Church [BillChurch](https://github.com/BillChurch)
+  * Everything I have is now productized... Yay?
+    * WebSSH2
+    * Ephemeral Authentication
+    * SSH2 Proxy (not yet, but not public either...)
 * Michael Slavinsky [diverdown311](https://github.com/diverdown311)
 * Arnufalo Hernandez [therealnoof](https://github.com/therealnoof)
 * Matt Burns [mburnsf5](https://github.com/mburnsf5)
