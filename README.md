@@ -32,3 +32,4 @@
 * Paul Deakin [dudesweet](https://github.com/dudesweet)
 * Paul Simmons [F4plusplus](https://github.com/F4plusplus)
 * Daniel Cayer [danielcayer](https://github.com/danielcayer)
+* Jeff Welton [jswelton12](https://github.com/jswelton12)
