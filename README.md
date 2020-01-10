@@ -3,6 +3,18 @@
 ## This is a director of F5 Federal Engineering repositories.
 
 * Michael Coleman [Mikej81](https://github.com/Mikej81)
+ * [f5-scca-terraform](https://github.com/Mikej81/f5-scca-terraform) Terraform script to deploy SCCA architecture in Azure Gov.
+ * [f5-webcifs-ilx](https://github.com/Mikej81/f5-webcifs-ilx) Webified CIFS file sharing.
+ * [f5-azure-saca](https://github.com/Mikej81/f5-azure-saca) SACA ARM templates.
+ * [nginx-forward-proxy-caching](https://github.com/Mikej81/nginx-forward-proxy-caching)  NGINX as forward proxy cache POC.
+ * [f5-azurestack-gslb](https://github.com/Mikej81/f5-azurestack-gslb) GLSB for Azure Stack.
+ * [PowerSRG](https://github.com/Mikej81/PowerSRG)  STIG/SRG Hardening scripts in Powershell and bash.
+ * [f5-securecloud-as3](https://github.com/Mikej81/f5-securecloud-AS3) Working directory for AS3 tied to SCCA and cloud hardening.
+ * [f5-securecloud-do](https://github.com/Mikej81/f5-securecloud-DO) Working directory for DO tied to SCCA and cloud hardening.
+ * [f5-wsstar-ilx](https://github.com/Mikej81/f5-wsstar-ilx) ADFS replacement IrulesLX.
+ * [f5-ocspproxy-ilx](https://github.com/Mikej81/f5-ocspproxy-ilx) OCSP Proxy in IrulesLX.
+ * [f5-samlreplay](https://github.com/Mikej81/f5-samlreplay) SAML Replay and verification in IrulesLX.
+ * [f5-asm-generic](https://github.com/Mikej81/f5-asm-generic) Generic Schema converter for ASM.
 * Bill Church [BillChurch](https://github.com/BillChurch)
 * Michael Slavinsky [diverdown311](https://github.com/diverdown311)
 * Arnufalo Hernandez [therealnoof](https://github.com/therealnoof)
