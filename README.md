@@ -15,6 +15,7 @@
   * [f5-ocspproxy-ilx](https://github.com/Mikej81/f5-ocspproxy-ilx) OCSP Proxy in IrulesLX.
   * [f5-samlreplay](https://github.com/Mikej81/f5-samlreplay) SAML Replay and verification in IrulesLX.
   * [f5-asm-generic](https://github.com/Mikej81/f5-asm-generic) Generic Schema converter for ASM.
+  * [WebRDP](https://github.com/Mikej81/WebRDP) HTML5 RDP Client
 * Bill Church [BillChurch](https://github.com/BillChurch)
 * Michael Slavinsky [diverdown311](https://github.com/diverdown311)
 * Arnufalo Hernandez [therealnoof](https://github.com/therealnoof)
