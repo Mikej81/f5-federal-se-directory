@@ -32,3 +32,4 @@
 * Paul Simmons [F4plusplus](https://github.com/F4plusplus)
 * Daniel Cayer [danielcayer](https://github.com/danielcayer)
 * Jeff Welton [jswelton12](https://github.com/jswelton12)
+* Satavayan Kosok [sol255](https://github.com/sol255)
