@@ -3,6 +3,7 @@
 ## This is a director of F5 Federal Engineering repositories, in no particular order.
 
 * Michael Coleman [Mikej81](https://github.com/Mikej81)
+  * [f5-azure-mag-arm-templates](https://github.com/Mikej81/f5-azure-mag-arm-templates) Azure ARM templates specifically targeted for Azure Gov.
   * [f5-scca-terraform](https://github.com/Mikej81/f5-scca-terraform) Terraform script to deploy SCCA architecture in Azure Gov.
   * [f5-webcifs-ilx](https://github.com/Mikej81/f5-webcifs-ilx) Webified CIFS file sharing.
   * [f5-azure-saca](https://github.com/Mikej81/f5-azure-saca) SACA ARM templates.
