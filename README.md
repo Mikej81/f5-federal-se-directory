@@ -41,3 +41,5 @@
 ## Honorable Mention
 * Vinnie Mazza [vinnie357](https://github.com/vinnie357)
   * [vin-lab-iac](https://github.com/vinnie357/vin-lab-iac)  Terraform and Ansible Infrastructure as Code lab example deployments.
+* Michael O'Leary [mikeoleary](https://github.com/mikeoleary)
+  * [f5-sca-securitystack](https://github.com/mikeoleary/f5-sca-securitystack)  SCA (SCCA) for AWS. 
