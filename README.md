@@ -37,3 +37,7 @@
 * Satavayan Kosok [sol255](https://github.com/sol255)
 * Anthony Graber [grabera7](https://github.com/grabera7)
 * Dung Lamb [dungfucious](https://github.com/dungfucious)
+
+## Honorable Mention
+* Vinnie Mazza [vinnie357](https://github.com/vinnie357)
+  * [vin-lab-iac](https://github.com/vinnie357/vin-lab-iac)  Terraform and Ansible Infrastructure as Code lab example deployments.
