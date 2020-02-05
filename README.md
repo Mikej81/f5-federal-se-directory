@@ -25,6 +25,7 @@
 * Michael Slavinsky [diverdown311](https://github.com/diverdown311)
 * Arnufalo Hernandez [therealnoof](https://github.com/therealnoof)
   * [terraform-aws-sslo-lab](https://github.com/therealnoof/terraform-aws-sslo-lab) Terraform SSLO Lab In a Box - Reverse Proxy
+  * [terraform-aws-awaf-ngfw-demo](https://github.com/therealnoof/terraform-aws-awaf-ngfw-demo) Terraform AWAF vs. NGFW Demo
 * Matt Burns [mburnsf5](https://github.com/mburnsf5)
 * Stephen Hillier [steveh565](https://github.com/steveh565)
 * August Winterstein [AugWin](https://github.com/AugWin)
