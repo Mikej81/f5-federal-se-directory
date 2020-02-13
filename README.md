@@ -12,6 +12,8 @@
   * [PowerSRG](https://github.com/Mikej81/PowerSRG)  STIG/SRG Hardening scripts in Powershell and bash.
   * [f5-securecloud-as3](https://github.com/Mikej81/f5-securecloud-AS3) Working directory for AS3 tied to SCCA and cloud hardening.
   * [f5-securecloud-do](https://github.com/Mikej81/f5-securecloud-DO) Working directory for DO tied to SCCA and cloud hardening.
+    * Updated Unclass STIG DO, feature request in to DO for password-policy schema.
+    * Added initial NIST 800-53 Baseline, still a lot missing in DO to complete.
   * [f5-wsstar-ilx](https://github.com/Mikej81/f5-wsstar-ilx) ADFS replacement IrulesLX.
   * [f5-ocspproxy-ilx](https://github.com/Mikej81/f5-ocspproxy-ilx) OCSP Proxy in IrulesLX.
   * [f5-samlreplay](https://github.com/Mikej81/f5-samlreplay) SAML Replay and verification in IrulesLX.
