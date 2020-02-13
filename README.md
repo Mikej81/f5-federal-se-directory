@@ -44,3 +44,6 @@
   * [vin-lab-iac](https://github.com/vinnie357/vin-lab-iac)  Terraform and Ansible Infrastructure as Code lab example deployments.
 * Michael O'Leary [mikeoleary](https://github.com/mikeoleary)
   * [f5-sca-securitystack](https://github.com/mikeoleary/f5-sca-securitystack)  SCA (SCCA) for AWS. 
+* Yossi Rosenboim [rosenboim](https://gitlab.com/rosenboim)
+  * [f5 examples aws](https://gitlab.com/f5-examples/f5-examples-aws) aws examples using terraform
+  * [aws waf cicd](https://gitlab.com/f5-examples/waf_cicd)  this example deploys a shared services vpc which will host your bigip, dev vpc which hosts 2 docker hosts running 'juiceshop' app, a preprod vpc and a 'prod' vpc. vpc's are connected with transit gateway.
